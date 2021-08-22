@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571847686187",
+    "project_id": "qfood-af5d7",
+    "storage_bucket": "qfood-af5d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571847686187:android:fe52aff0891d357f3e526e",
+        "android_client_info": {
+          "package_name": "com.coeknust.q_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571847686187-3521f6o475kfdpm1j70piu0fkgclrrub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuEuRkIR_oYmIp5Fr78LvwlCz2O8fW0uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571847686187-3521f6o475kfdpm1j70piu0fkgclrrub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
