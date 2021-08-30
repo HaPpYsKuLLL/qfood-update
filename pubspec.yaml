@@ -1,5 +1,5 @@
 name: q_food
-description: A simple E-Commerce App for flutter using firebase.
+description: Quality food checker for palm oil.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
